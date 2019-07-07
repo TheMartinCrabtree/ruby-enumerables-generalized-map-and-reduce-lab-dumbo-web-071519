@@ -10,7 +10,7 @@ end
 def reduce(array, starting_point)
   value 
   
-  yield value 
+  
 end
 
 
